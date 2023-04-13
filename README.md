@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnwear" alt="mrnwear" /></a> </p>
 
-- 🔭 I’m currently working on Freelance Project
+- 🔭 I’m currently working in Webops
 
-- 🌱 I’m currently Improve My skills in Mobile Development using **React Native**
+- 🌱 I’m currently building an amazing responsive mobile apps  **React Native**
 
 - 👨‍💻 All of my projects are available at [github.com/MrNwear](github.com/MrNwear)
 
