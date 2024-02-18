@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnwear" alt="mrnwear" /></a> </p>
 
-- 🔭 I’m currently working in Webops
+- 🔭 I’m currently working in IT-Fusion
 
 - 🌱 I’m currently building an amazing responsive mobile apps  **React Native**
 
